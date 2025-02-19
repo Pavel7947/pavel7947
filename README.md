@@ -1,16 +1,36 @@
-## Hi there 👋
+### Привет! Меня зовут Павел
 
-<!--
-**Pavel7947/pavel7947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Контакты 
 
-Here are some ideas to get you started:
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)]([https://t.me/syutkin_pi]) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:syutkinpipi@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Заканчиваю обучение на java разработчика в Яндекс Практикуме
+- В 2023 закончил обучение в универе в городе Тюмень
+- Продолжаю обучаться новым технологиям
+
+---
+
+### &#128736; Мой стек:
+![Java](https://img.shields.io/badge/java_se-fefcf4?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFlElEQVR4nO1Xa2xURRQeQERUrG1ntoD4woIS8bmdu%2BUR6967xQooYCxBpSq7Zy4v8REV%2F0iqxkR8JMZfYkKMiUZC%2FeEzJEi6Z5YCf6j4iATUKA9jCA%2Bx3XtLA0HWnNlH19Jaomy7Nf2SyXbPvZ39zsx3vjPD2BCGMIR%2BQadTNZENZniOfGhQJ%2BE51tpkRC5ngxFts6rLfFse9hz5AhtsSDWy4Z5jbfIdK9VhW0vZYEKqvn6E58j1RN6z5ekTkeBVbLAgVVNzke9YTUTeJODId9mg0rxjJfLI70%2FWBDk9S9VVjvLDodm%2Bbb3l29ZGzw7dzIoJ7Y6c7Dvypxx52%2Brww9YtR6dPH%2BM78nnfsY6mn8kNbTNnlrJiQkc4FPRt%2BXse%2BZO%2BI%2Bu82qqpvmPtzdaCZ1srWbGhsyZ0jedYh7rIy9MdtlxA8eyq0250ONY8VozwHLk5S55G0qlaQXGSSi6piFzIihFe7bSA51hn8op2HcVTweBIz5GdGc3vZsWK9khoUn7RZouzw66%2BIm9X9rLi7rby10wCO3PxuspRxoWysrozOIMVK3xHrjFEbastVV09Oi%2F%2BZtcuyGZW1J3XtvYYohGpuh%2FkchILyxtZsSI5K3iD78jjpHeSVTbuReSDuV0IW8%2BwYsYJR05LNzM5NxujZHzbOpJJIsqKHclIaIrvyC%2FJRrMx37aOkZSOR4IlA8uOMcYhHhRKr%2BaA7wnATVzh2kBM11au2jQq%2B05HjTXBd6puM3%2BHQ%2Fd6jtxHR43uc5UrLQXoJqHwBwEY527ijoIRL3kELxeACaF0Kj3wTF8%2FaIo7bDUcq7MuM4Sj28YLF2cKhQ1lgBMqFm%2B%2BxMQUrqc5OeCJUrelMPeGAGB1F%2FlcEkmu8FsOegsN2hFaUa70J%2Ba70q0C9B6h8CBXujP7P8LV9d1SHSaU3pt5%2FlhBEjBJKIwIwE856KNnJ9PbwCQH%2FE4o3MhBN5ZHm6%2FvaW7RtburWX%2BAtp5HcZGIYoMAvJ9WVcT0fZRkWSxhlcX0FLECLz2XuUqWt5RypX0jIzc%2Bp%2BDkJzy1YzTJJLPCDSSBf3p%2F%2FMot5QEX5%2Fembw76dTMX6D2sES8oGPHcD7rxOX%2BTCeABAfoLofAdrvTbNITCDzK1sU8A%2FpkuUu1xVz%2FOGlO5RscB5wqlT3PAw4HY1n66YjamhnNARQVMbnSOtXBQAK4TbmIWc1tNjwhAfF5aOriRXIkNBDhsmRyI4eIA4DIB%2BjkO%2BhUaAvBZDolYwI0741w0l%2Fp8iBhWCsBVY6PNV7OBAlc6SivIQX8sVuDYriepYUQ64OqbBOiHhdIfUuO7LLajbMDIsvqmERVRnMrdxO0Vy7YHKCQAj%2BfLxMjBxHqWFQd9iByqX3mXLG8pNZ0ySzb9%2BTkdH7jCRaZI%2B9A%2FFagAvUFA%2FK6eHGvskq2CK%2F1aX272r8CV%2FrrLbbSm9n%2FWO0v1pADoBdk6IG0b%2Fcd0rXCbr%2BuLGAe9kOavcOOh856AcY8uCewjCZ2vuSuWbQ8I0C8JwFO0SwWpEVoVrvBIN9%2F%2FSgC%2BwQEfELH4DNOgMtbYI%2Bq%2Fv5C7iXHk86Zrp0knhMKTGYvdRfWVn9h5TaI8um1MxiK%2F6VXr1KyoPtLjAFf4Mw0B2N7L%2B%2B3k%2F%2BUxfU9%2BYyPbpS7PCgVqOKR3AfgiV%2Fp9rvQ2qhNDGPShPGf6gyv8hVZXKGw2p1TAV8l6TcetbxqRP68AvJUr%2FZEA3Ub3hIIlQKtV%2BmjiSpLFf52qAhLXcsAnyRzS1ou7%2Buc44baO5ErfzZV%2Bgm5kdEzmLgKdkcpdrDKutKRlIg3quKaOYno2HfwE4MsC8DOu9P6MlE4ZW3Zxfr6U%2BhGpYYasi%2FO5i2vMFRH0TgH4o1D4G0kp7TJGXrs56BajfVc%2FTbezcW7rxQNAeghD%2BF%2FgL76ssK8TFCCXAAAAAElFTkSuQmCC
+)
+![Spring Fraemwork](https://img.shields.io/badge/spring_framework-BCF3C3?style=for-the-badge&logo=spring&logoColor=14E630)
+![Spring Boot](https://img.shields.io/badge/spring_boot-BCF3C3?style=for-the-badge&logo=springboot&logoColor=14E630)
+![Hibernate](https://img.shields.io/badge/hibernate-59666c?style=for-the-badge&logo=hibernate)
+![PostreSQL](https://img.shields.io/badge/postgresql-e6e6fa?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Git](https://img.shields.io/badge/git-f0efe7?style=for-the-badge&logo=git)
+![Apache Maven](https://img.shields.io/badge/apache_maven-08c?style=for-the-badge&logo=apachemaven)
+![Docker](https://img.shields.io/badge/docker-fcf8ff?style=for-the-badge&logo=docker)
+![Apache Kafka](https://img.shields.io/badge/apache_kafka-08c?style=for-the-badge&logo=apachekafka)
+![gRPC](https://img.shields.io/badge/gRPC-white?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjIwOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IHgxPSIxMDAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiIGlkPSJhIj48c3RvcCBzdG9wLWNvbG9yPSIjNzJDOUM5IiBvZmZzZXQ9IjAlIi8%2BPHN0b3Agc3RvcC1jb2xvcj0iIzAyQjBBRCIgb2Zmc2V0PSIxMDAlIi8%2BPC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgeDE9IjEwMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSIgaWQ9ImIiPjxzdG9wIHN0b3AtY29sb3I9IiMwM0I2QjQiIG9mZnNldD0iMCUiLz48c3RvcCBzdG9wLWNvbG9yPSIjNzRDQkNBIiBvZmZzZXQ9IjEwMCUiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cGF0aCBkPSJNNTcgMTgwYzMgNSA4IDkgMTQgMTJzMTMgNCAyMCA0bDE2LTJhMjggMjggMCAwIDAgMTctMTlsMi0xNHYtMTZoLTFjLTMgNi05IDEwLTE1IDEzLTUgMy0xMiA0LTE4IDRhNDggNDggMCAwIDEtMzMtMTMgNDMgNDMgMCAwIDEtMTQtMzMgNDcgNDcgMCAwIDEgMTMtMzJjNC01IDktOCAxNC0xMGE0NiA0NiAwIDAgMSAzNiAwYzcgMyAxMyA3IDE3IDEzaDFWNzNoMTJ2ODhjMCA1IDAgMTEtMiAxNmEzOCAzOCAwIDAgMS0yMSAyNmMtNyAzLTE1IDUtMjUgNS04IDAtMTYtMi0yNC01LTctMy0xMy03LTE5LTEzbDEwLTEwWm0yLTY0YTM0IDM0IDAgMCAwIDMzIDM0YzkgMCAxOC0zIDI0LTlsOC0xMSAyLTE0LTItMTNhMzIgMzIgMCAwIDAtMTgtMTkgMzUgMzUgMCAwIDAtMjcgMCAzNCAzNCAwIDAgMC0yMCAzMlptMTMxIDQ2aC0xNFYyN2g0MWMxNCAwIDI1IDMgMzMgOXMxMiAxNSAxMiAyN2MwIDktMyAxNy05IDI0LTYgNi0xNCAxMC0yNiAxMWwzOSA2NGgtMTZsLTM3LTYzaC0yM3Y2M1ptMC03NmgyNGM1IDEgMTEgMCAxNi0xbDEwLTUgNS04YTI1IDI1IDAgMCAwIDAtMThsLTUtOC0xMC01LTE2LTJoLTI0djQ3Wm0xMDAtNTloMzljMTQgMCAyNSAzIDMzIDlzMTIgMTUgMTIgMjctNCAyMS0xMiAyNy0xOSA5LTMzIDloLTI1djYzaC0xNFYyN1ptMTQgNTloMjJjNSAxIDEwIDAgMTYtMWwxMC01IDUtOGEyNSAyNSAwIDAgMCAwLTE4bC01LTgtMTAtNS0xNi0yaC0yMnY0N1ptMjA4IDU1YTUyIDUyIDAgMCAxLTIwIDE3IDY2IDY2IDAgMCAxLTMwIDcgNjcgNjcgMCAwIDEtNjUtNDMgNzQgNzQgMCAwIDEgMC01N2M3LTE2IDIwLTMwIDM3LTM2YTcyIDcyIDAgMCAxIDUzLTFjOSA0IDE2IDkgMjIgMTdsLTEyIDktNi03LTgtNi0xMC00LTExLTFhNTUgNTUgMCAwIDAtNDEgMTdjLTUgNi04IDEyLTExIDE5LTUgMTQtNSAzMCAwIDQ1IDMgNiA2IDEzIDExIDE4YTUzIDUzIDAgMCAwIDQxIDE4bDExLTFhNDQgNDQgMCAwIDAgMTktMTBsOS05IDExIDhaIiBmaWxsPSIjMjQ0QjVBIi8%2BPHBhdGggZmlsbD0idXJsKCNhKSIgdHJhbnNmb3JtPSJyb3RhdGUoLTEzNSAzNSAzNSkiIGQ9Ik0xMCAxMGg1MXY1MUgxMHoiLz48cGF0aCBmaWxsPSJ1cmwoI2IpIiB0cmFuc2Zvcm09InJvdGF0ZSgtMTM1IDEzMiAzNSkiIGQ9Ik0xMTggMjBoMjl2MzBoLTI5eiIvPjxwYXRoIGZpbGw9IiMyNDRCNUEiIGQ9Ik0zNyAxNCAxNiAzNmwyMSAyMWgxOEwzNiAzOGg5NWwtOSA4aDEwbDEwLTExLTExLTExaC05bDkgOUgzNmwxOS0xOXoiLz48L3N2Zz4%3D)
+![Junit 5](https://img.shields.io/badge/junit_5-fefcf4?style=for-the-badge&logo=junit5)
+![Rest](https://img.shields.io/badge/rest-e6e6fa?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEnklEQVR4nO1Z%2F28TZRg%2F9TcR%2FwZj%2FJKI8Q8wJgZ7t%2FmD7rd2vesC9O6FGth%2BcF17N5ZR2BbIrch12pXVdtMJ6lKDBjYjkBEBA5hMkxHRiCIoCHPTqBiBtmv7mudNW2%2FXu7Vb327W7JM8yd373r3v59N7nvd9nrcMs4Y1rIE6OAFJnICw3hpcosjUCzgBTRgFsLw0ztQDnrdvf4jj0b0SAYKUfNHlepj5r4PjtzqN5ItuJEjNq0bspW3bHmR5pHIt4tOLPcfyaMxKAPQt9q5NcD%2FKCWgfzEWfvCCdyvtylhNQwtaMntA%2FY08kHvDtH7K5ld5UW18Id%2BwfwrIWIwbX0OZWetM%2BNWyDZ%2FXvci0t6zhe2l1wPZaXzoIrUidvCEoi5GXk3yCHYoqsxeaUUBxXaLOdoZjfG3xnnY1HmzgBzZiMT0cEK0j9Vi7haJNxe%2F9gbgnEF1h7%2F2DascNvOnbe9lUtAHw%2B%2F2v%2FO7BrK97k240VLbYs4gtMi%2BEtck9pvAhSEmKiagFEBI%2Fe1Q%2Fu6VarJ24wzy7VGPB7GVpgec%2FjnCDNw8Bb%2FD3UySt52%2BzfU%2FD%2FWep7BstLcfD5WpFX8u7kaCUxITG00fSK78lqArZS8wYj6UA4TGcJ1UPRYp21Jq%2FkDZZYquRh41niOl%2BVyVr8F%2BNmVxWUA1HWajJ1ZAwD5jMZHIiMLujTA%2Fqvz8zh6AcTJf2KmYjQ8HNVkW4SxfWsEzkgfxGVvpSVgPHTF4pE3vv4lKmAr767ii%2F%2FeAPncjmcns%2Fg4NuJsgJQ195rrCB5X3BKzzAMc1%2FFxKHwgNxdnxJDHmMl4Icbt3AmmyVEpr%2B9Yipg58Awub9w8Rtyf%2FL8l2UFtPWG9PvCDCdIo5xTaikrwGxL7wgeNJ2kZ%2BgQzmaz%2BMr1m3ju9z%2FxvWQKd70xYilg4szn5P789NdlBXiDB03Ti2UJkLU3TSdJnDhNCJw4N1X8dUc%2BOl4iIPz%2BUTyUGMc3534j90cmPysfAwditRdw6ftrhMDg2FF8eGKSXIMQsyAu4OrPM7jr9ZGVFdBh4kLd4bdwKj1PCEAc%2FHRrllzf%2FvsO7jQIOH5uirgPfJ3OvDvVzIUaKgzi0WMni8vj3WSSWCaTLX4RsxgwWgFmfa192vKC2GwZdculy%2BjUpctkclhGC21nvrhI2j6dmq5agLRzmcuoGaAM1A8ObvDXnbtk8tDhI8X24Q8%2FIW2%2F%2FnG7agH%2BgeizDC3Atg5loNVeUItUIhAI3M%2FQBCRYKyYgFPMytGGHdFqN1Dydbu%2BP5CB1py6A5dEwFOBU6mAr02LYvsMPFVmcMnl9SbmnZgI2%2B%2FIlpYAyjS6R3lcoKep31aCo7zYU9QI6RIf8ah2r8FK20Yk21PZgq9Vf3cGWGsmBzy9ylqpSOVrkeDRpdbTY5PE%2BJWtxH6zdFS%2BT8OxAvMO%2B%2FdXHWAFFC%2FFVk6NFowirw13YeHyvRTe65d4UFCOQjEEWCwbX0AZ9PnVwo3GTamz2PAJCIHipk1%2FJ43WOxBtSqR%2BvLwXwJ4alACdyMPX8F1OTKK5n6gEs1BMlAtAxpl7Q4BJFk1XFvdq81rCG%2FyP%2BAX4mIgnO%2FkojAAAAAElFTkSuQmCC
+)
+
+
+
+
+
+
+
+---
