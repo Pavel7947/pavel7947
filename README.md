@@ -2,7 +2,7 @@
 
 ### Контакты 
 
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)]([https://t.me/syutkin_pi]) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:syutkinpipi@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/syutkin_pi) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:syutkinpipi@gmail.com)
 
 
 - Заканчиваю обучение на java разработчика в Яндекс Практикуме
